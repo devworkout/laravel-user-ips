@@ -16,10 +16,8 @@
     }
   ],
   "require": {
-    "laravel/framework": "*"
   },
   "require-dev": {
-    "larapack/dd": "^1.0",
     "phpunit/phpunit": "*"
   },
   "autoload": {
